@@ -4,7 +4,7 @@
 updatetime:2023/10/29
 变量
 epxort FRUIT_DELAY='1000',设置等待时间(毫秒)，默认请求5次接口等待5秒（5000）
-export FRUITCODES='xxx&xxx' 指定助力码助力，多个用&分割，不指定则自动搜集任务助力码
+export FRUITCODES='38a029a2c2394aca81403bdd3f039e87&89e976164468473aada977c4f657be14&53c64f5460bf4f20822b96c2e58128c4&96d65ed9cf8d402dbff1ce0451f5b9f6&78e0556213b94bb0a9b363e0144d22d4&d157e7bc082144b09c1250723d5ffc88&def4ffaaf99947a0bb47b6685dd9012a&19dbd406f8e54af59883a88656ab2362&9dcc8cb5f090439686ec4d5a9d021e63&c742ce027eb14c179d1fb8d88804c293' 指定助力码助力，多个用&分割，不指定则自动搜集任务助力码
 */
 
 const $ = new Env('东东农场-助力');
